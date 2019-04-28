@@ -1,2 +1,2 @@
-## igra-zivota
-# bit ili ne bit
+# igra-zivota
+## bit ili ne bit
