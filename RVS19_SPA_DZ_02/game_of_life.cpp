@@ -1,4 +1,7 @@
 #include "game_of_life.h"
+#include <iostream>
+
+using namespace std;
 
 bool game_of_life::slucajna_vrijednost() {
 	return !((rand() & 1) || (rand() & 1));
